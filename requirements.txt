@@ -3,4 +3,3 @@ git+https://github.com/huggingface/transformers
 torch==2.2.1
 accelerate==0.34.2
 gradio==4.39.0
-huggingface_hub==0.23.2
